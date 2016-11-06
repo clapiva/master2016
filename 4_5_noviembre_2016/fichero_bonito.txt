@@ -1,0 +1,100 @@
+|------------+--------------------------------+-----------------------------+------------+---------------+-----------+------------+----------------|
+|  iata_code | manufacturer                   | model                       | iata_group | iata_category | icao_code | nb_engines | aircraft_type  |
+|------------+--------------------------------+-----------------------------+------------+---------------+-----------+------------+----------------|
+|  143       | BAe                            | 146-300                     | 146        | 4J            | B463      | 4          | J              |
+|  310       | Airbus                         | A310                        |            |               |           |            |                |
+|  312       | Airbus                         | A310-200                    | 310        | 2J            | A310      | 2          | J              |
+|  313       | Airbus                         | A310-300                    | 310        | 2J            | A310      | 2          | J              |
+|  318       | Airbus                         | A318                        | 32S        | 2J            | A318      | 2          | J              |
+|  319       | Airbus                         | A319                        | 32S        | 2J            | A319      | 2          | J              |
+|  31F       | Airbus                         | A310F                       |            |               |           |            |                |
+|  31W       | Airbus                         | A319 (Sharklets)            |            |               |           |            |                |
+|  31X       | Airbus                         | A310-200F                   | 31F        | 2J            | A310      | 2          | J              |
+|  31Y       | Airbus                         | A310-300F                   | 31F        | 2J            | A310      | 2          | J              |
+|  320       | Airbus                         | A320-100/200                | 32S        | 2J            | A320      | 2          | J              |
+|  321       | Airbus                         | A321-100/200                | 32S        | 2J            | A321      | 2          | J              |
+|  32A       | Airbus                         | A320 (sharklets)            | 32S        | 2J            | A320      | 2          | J              |
+|  32B       | Airbus                         | A321 (sharklets)            | 32S        | 2J            | A321      | 2          | J              |
+|  32C       | Airbus                         | A318 (sharklets)            |            |               |           |            |                |
+|  32D       | Airbus                         | A319 (sharklets)            |            |               |           |            |                |
+|  32F       | Airbus                         | A320 Freighter              | 32F        | 2J            | A320      | 2          | J              |
+|  32X       | Airbus                         | A321 Freighter              | 32X        | 2J            | A321      | 2          | J              |
+|  330       | Airbus                         | A330                        |            |               |           |            |                |
+|  332       | Airbus                         | A330-200                    | 330        | 2J            | A332      | 2          | J              |
+|  333       | Airbus                         | A330-300                    | 330        | 2J            | A333      | 2          | J              |
+|  33F       | Airbus                         | A330 Freighter              |            |               |           |            |                |
+|  33X       | Airbus                         | A330-200 Freighter          | 33F        | 2J            | A332      | 2          | J              |
+|  340       | Airbus                         | A340                        |            |               |           |            |                |
+|  342       | Airbus                         | A340-200                    | 340        | 4J            | A342      | 4          | J              |
+|  343       | Airbus                         | A340-300                    | 340        | 4J            | A343      | 4          | J              |
+|  345       | Airbus                         | A340-500                    | 340        | 4J            | A345      | 4          | J              |
+|  346       | Airbus                         | A340-600                    | 340        | 4J            | A346      | 4          | J              |
+|  350       | Airbus                         | A350                        |            |               |           |            |                |
+|  351       | Airbus                         | A350-1000                   | 350        | 2J            | ZZZZ      | 2          | J              |
+|  358       | Airbus                         | A350-800                    | 350        | 2J            | ZZZZ      | 2          | J              |
+|  359       | Airbus                         | A350-900                    | 350        | 2J            | ZZZZ      | 2          | J              |
+|  380       | Airbus                         | A380                        |            |               |           |            |                |
+|  388       | Airbus                         | A380                        | 380        | 4J            | A388      | 4          | J              |
+|  38F       | Airbus                         | A380F                       | 38F        | 4J            | A388      | 4          | J              |
+|  703       | Boeing                         | 707-300                     | 707        | 4J            | B703      | 4          | J              |
+|  731       | Boeing                         | 737-100                     | 737        | 2J            | B731      | 2          | J              |
+|  732       | Boeing                         | 737-200                     | 737        | 2J            | B732      | 2          | J              |
+|  733       | Boeing                         | 737-300                     | 737        | 2J            | B733      | 2          | J              |
+|  734       | Boeing                         | 737-400                     | 737        | 2J            | B734      | 2          | J              |
+|  735       | Boeing                         | 737-500                     | 737        | 2J            | B735      | 2          | J              |
+|  736       | Boeing                         | 737-600                     | 737        | 2J            | B736      | 2          | J              |
+|  737       | Boeing                         | 737                         |            |               |           |            |                |
+|  738       | Boeing                         | 737-800                     | 737        | 2J            | B738      | 2          | J              |
+|  739       | Boeing                         | 737-900                     | 737        | 2J            | B739      | 2          | J              |
+|  73A       | Boeing                         | 737-200 Advanced            |            |               |           |            |                |
+|  73C       | Boeing                         | 737-300 (winglets)          | 737        | 2J            | B733      | 2          | J              |
+|  73E       | Boeing                         | 737-500 (winglets)          | 737        | 2J            | B735      | 2          | J              |
+|  73F       | Boeing                         | 737 Freighter               |            |               |           |            |                |
+|  73G       | Boeing                         | 737-700                     | 737        | 2J            | B737      | 2          | J              |
+|  73H       | Boeing                         | 737-800 (winglets)          | 737        | 2J            | B738      | 2          | J              |
+|  73J       | Boeing                         | 737-900 (winglets)          | 737        | 2J            | B739      | 2          | J              |
+|  73L       | Boeing                         | 737-200 Mixed Configuration | 73M        | 2J            | B732      | 2          | J              |
+|  73M       | Boeing                         | 737-200 Combi               |            |               |           |            |                |
+|  73N       | Boeing                         | 737-300 Mixed Configuration | 73M        | 2J            | B733      | 2          | J              |
+|  73P       | Boeing                         | 737-400 Freighter           | 73F        | 2J            | B734      | 2          | J              |
+|  73Q       | Boeing                         | 737-400 Mixed Configuration | 73M        | 2J            | B734      | 2          | J              |
+|  73R       | Boeing                         | 737-700 Mixed Configuration | 73M        | 2J            | B737      | 2          | J              |
+|  73S       | Boeing                         | 737-200 Advanced            | 73F        | 2J            | B737      | 2          | J              |
+|  73W       | Boeing                         | 737-700 (winglets)          | 737        | 2J            | B737      | 2          | J              |
+|  73X       | Boeing                         | 737-200 Freighter           | 73F        | 2J            | B732      | 2          | J              |
+|  73Y       | Boeing                         | 737-300 Freighter           | 73F        | 2J            | B733      | 2          | J              |
+|  73Z       | Boeing                         | 737-400 Freighter           |            |               |           |            |                |
+|  743       | Boeing                         | 747-300                     | 747        | 4J            | B743      | 4          | J              |
+|  753       | Boeing                         | 757-300                     | 757        | 2J            | B753      | 2          | J              |
+|  763       | Boeing                         | 767-300                     | 767        | 2J            | B763      | 2          | J              |
+|  773       | Boeing                         | 777-300                     | 777        | 2J            | B773      | 2          | J              |
+|  783       | Boeing                         | 787-3                       | 787        | 2J            | B783      | 2          | J              |
+|  A30       | Antonow / Antonov              | An-30                       | AN6        | 2T            | AN30      | 2          | T              |
+|  A32       | Antonow / Antonov              | An-32                       | AN6        | 2T            | AN32      | 2          | T              |
+|  A38       | Antonov                        | An-38                       | A38        | 2T            | AN38      | 2          | T              |
+|  AB3       | Airbus                         | A300                        |            |               |           |            |                |
+|  B13       | BAC                            | One Eleven 300              | B11        | 2J            | BA11      | 2          | J              |
+|  CL3       | Bombardier                     | Challenger 300              | CL3        | 2J            | CL30      | 2          | J              |
+|  CS3       | Bombardier                     | CS300                       | CSB        | 2J            | ZZZZ      | 2          | J              |
+|  D38       | Dornier                        | Do 328                      | D38        | 2T            | D328      | 2          | T              |
+|  D3F       | Douglas                        | DC-3 Freighter              | D3F        | 2P            | DC3       | 2          | P              |
+|  D93       | Douglas                        | DC-9-30                     | DC9        | 2J            | DC93      | 2          | J              |
+|  DC3       | Douglas                        | DC-3                        | DC3        | 2P            | DC3       | 2          | P              |
+|  DF3       | Dassault                       | Falcon 50 / 900             |            |               |           |            |                |
+|  DH3       | De Havilland Canada-Bombardier | DHC-8-300 Dash 8 / 8Q       | DH8        | 2T            | DH8C      | 2          | T              |
+|  EC3       | Eurocopter                     | EC130                       | EC3        | H             | EC30      |            | H              |
+|  EP3       | Embraer                        | EMB-505 Phenom 300          | EPH        | 2J            | E55P      | 2          | J              |
+|  ER3       | Embraer                        | ERJ 135                     | ERJ        | 2J            | E135      | 2          | J              |
+|  F23       | Fokker                         | F28 Fellowship 3000         | F28        | 2J            | F28       | 2          | J              |
+|  FR3       | Dornier                        | 328JET                      |            |               |           |            |                |
+|  GR3       | Gulfstream                     | G-250                       | GR3        | 2J            | G250      | 2          | J              |
+|  I93       | Ilyushin                       | IL-96-300                   |            |               |           |            |                |
+|  J31       | BAe                            | Jetstream 31                | JST        | 2T            | JS31      | 2          | T              |
+|  J32       | BAe                            | Jetstream 32                | JST        | 2T            | JS32      | 2          | T              |
+|  M3F       | McDonnell Douglas              | MD83 Freighter              | M3F        | 2J            | MD83      | 2          | J              |
+|  M83       | McDonnell Douglas              | MD-83                       | M80        | 2J            | MD83      | 2          | J              |
+|  SF3       | Saab                           | SF340A/B                    | SF3        | 2T            | SF34      | 2          | T              |
+|  SH3       | Shorts                         | SD.330                      | SH3        | 2T            | SH33      | 2          | T              |
+|  T34       | Tupolev                        | Tu-334                      | T34        | 2J            | T334      | 2          | J              |
+|  TU3       | Tupolev                        | Tu-134                      | TU3        | 2J            | T134      | 2          | J              |
+|------------+--------------------------------+-----------------------------+------------+---------------+-----------+------------+----------------|
